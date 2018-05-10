@@ -1,6 +1,5 @@
 /**
  * @author Yuki Inazuma
- * Feb 2018
  */
 (function($) {
     var countdown = {
